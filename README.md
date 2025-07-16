@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NikulinKirill
-- 👀 I’m interested in html5, css, js, php, gulp, react, redux
-- 🌱 I’m currently learning js react
-- 💞️ I’m looking to collaborate on js projects
-- 📫 How to reach me - follow me https://vk.com/comoncomon13
+- 👀 I’m interested in php, backend, frontend, vue3, html, css,
+- 🌱 I’m currently learning js vue
+- 💞️ I’m looking to collaborate on php projects
+- 📫 How to reach me - follow me tg:progerkotig
 
 <!---
 NikulinKirill/NikulinKirill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
